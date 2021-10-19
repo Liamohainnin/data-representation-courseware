@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Library>
+<Technical_Catalog>
+   <book>
+      <author>George Best</author>
+      <title>Xml for Soccer players</title>
+      <isbn>978-3-16-148410-2</isbn>
+   </book>
+   <book>
+       <author>Simon Schama</author>
+      <title>Xml for the ancients</title>
+      <isbn>978-3-16-148410-3</isbn>
+   </book>
+</Technical_Catalog>
+<Cookery_catalog>
+     <book>
+      <author>Jamie Oliver</author>
+      <title>XML for Cooks</title>
+      <isbn>978-3-16-148410-4</isbn>
+   </book>
+   <book>
+       <author>Keith Floyd</author>
+      <title>An Xml tour of the UK</title>
+      <isbn>978-3-16-148410-5</isbn>
+   </book>
+</Cookery_catalog>
+</Library>
